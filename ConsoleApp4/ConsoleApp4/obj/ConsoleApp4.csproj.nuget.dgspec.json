@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hebdzynski.wojciech\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
+    "S:\\ehehehe\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hebdzynski.wojciech\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
+    "S:\\ehehehe\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hebdzynski.wojciech\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectUniqueName": "S:\\ehehehe\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "C:\\Users\\hebdzynski.wojciech\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectPath": "S:\\ehehehe\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\hebdzynski.wojciech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hebdzynski.wojciech\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+        "outputPath": "S:\\ehehehe\\ConsoleApp4\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "\\\\zstsrv\\Hebdzynski.Wojciech$$\\Application Data\\NuGet\\NuGet.Config",

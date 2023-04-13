@@ -18,6 +18,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine("Błąd: {0}", ex.Message);
             }
+            Console.WriteLine("zmiana");
         }
     }
 }
